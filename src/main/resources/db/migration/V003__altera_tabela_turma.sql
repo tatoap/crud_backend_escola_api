@@ -1,0 +1,1 @@
+alter table turma add carga_horaria int not null;
